@@ -1,3 +1,3 @@
 @echo off
-python ./login.py
+python "absolute_path/login.py"
 pause
